@@ -2,6 +2,10 @@
 public class BiscuitJar_134 {
 
 	int num_biscuits;
+	int get_biscuit_count()
+	{
+		return num_biscuits;
+	}
 	
 	BiscuitJar_134(int num_biscuits)
 	{
